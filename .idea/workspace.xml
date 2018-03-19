@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="484e515b-ae4e-49d5-b360-9abdedb278a1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mindrot_jbcrypt_0_3m.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsing_json/Element.java" afterPath="$PROJECT_DIR$/src/main/java/parsing_json/Element.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsing_json/ElementCollection.java" afterPath="$PROJECT_DIR$/src/main/java/parsing_json/ElementCollection.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/parsing_json/ElementCollectionInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/parsing_json/ElementCollectionInitializer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user_management/User.java" afterPath="$PROJECT_DIR$/src/main/java/user_management/User.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user_management/UserCollection.java" afterPath="$PROJECT_DIR$/src/main/java/user_management/UserCollection.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user_management/UserCollectionInitializer.java" afterPath="$PROJECT_DIR$/src/main/java/user_management/UserCollectionInitializer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/user_management/security/Authenticator.java" afterPath="$PROJECT_DIR$/src/main/java/user_management/security/Authenticator.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/parsing_json/ElementCollectionTest.java" afterPath="$PROJECT_DIR$/src/test/java/parsing_json/ElementCollectionTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user_management/UserCollectionInitializerTest.java" afterPath="$PROJECT_DIR$/src/test/java/user_management/UserCollectionInitializerTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user_management/UserCollectionTest.java" afterPath="$PROJECT_DIR$/src/test/java/user_management/UserCollectionTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user_management/UserTest.java" afterPath="$PROJECT_DIR$/src/test/java/user_management/UserTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/user_management/security/AuthenticatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/user_management/security/AuthenticatorTest.java" />
-    </list>
+    <list default="true" id="484e515b-ae4e-49d5-b360-9abdedb278a1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,7 +14,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6339623">
+    <splitter split-orientation="horizontal" split-proportion="0.5836478">
       <split-first>
         <leaf>
           <file leaf-file-name="periodic_table.json" pinned="false" current-in-tab="false">
@@ -127,8 +105,8 @@
           <file leaf-file-name="ElementCollection.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/parsing_json/ElementCollection.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="809">
-                  <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+                <state relative-caret-position="443">
+                  <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -167,7 +145,7 @@
           <file leaf-file-name="ElementCollectionTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/parsing_json/ElementCollectionTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1875">
+                <state relative-caret-position="613">
                   <caret line="125" column="10" lean-forward="false" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
                   <folding>
                     <element signature="imports" expanded="true" />
@@ -576,16 +554,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521466007697</updated>
-      <workItem from="1521466009210" duration="21243000" />
+      <workItem from="1521466009210" duration="21557000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="ElementCollectionInitializerTest_generate - 2018.03.19 at 16h 17m 09s.xml">
       <configuration name="ElementCollectionInitializerTest.generate" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ElementCollectionTest - 2018.03.19 at 10h 42m 03s.xml">
-      <configuration name="ElementCollectionTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="ElementCollectionTest - 2018.03.19 at 11h 20m 58s.xml">
       <configuration name="ElementCollectionTest" configurationId="JUnit" />
@@ -605,6 +580,9 @@
     <history-entry file="ElementCollectionTest_findByAtomicNumber - 2018.03.19 at 16h 21m 44s.xml">
       <configuration name="ElementCollectionTest.findByAtomicNumber" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ElementCollectionTest_findByAtomicNumber - 2018.03.19 at 16h 49m 26s.xml">
+      <configuration name="ElementCollectionTest.findByAtomicNumber" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="ElementCollectionTest_findByName - 2018.03.19 at 16h 20m 56s.xml">
       <configuration name="ElementCollectionTest.findByName" configurationId="JUnit" />
     </history-entry>
@@ -613,7 +591,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21243000" />
+    <option name="totallyTimeSpent" value="21557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-292" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -879,7 +857,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/parsing_json/ElementCollectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
+        <state relative-caret-position="613">
           <caret line="125" column="10" lean-forward="false" selection-start-line="125" selection-start-column="10" selection-end-line="125" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -889,8 +867,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/parsing_json/ElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="56" column="51" lean-forward="true" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+        <state relative-caret-position="443">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
